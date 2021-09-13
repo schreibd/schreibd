@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel Schreiber
 - 👀 I’m interested in Java development 
-- 🌱 I’m currently learning a lot of new stuff in using Unity and C# just for fun
+- 🌱 I’m currently learning a lot of new stuff in using Unity and C# just for fun. Also some new parts on clean coding!
 - 📫 How to reach me schreiber.daniel87@gmail.com
 
 <!---
